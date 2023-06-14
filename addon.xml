@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.launcher" name="ProcessLauncher" version="0.0.1" provider-name="Micolithe">
+<addon id="plugin.program.launcher" name="Moonlight" version="0.0.1" provider-name="Micolithe">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -11,7 +11,7 @@
         <disclaimer>For V19 Matrix or Newer</disclaimer>
         <summary lang="en">Launch any program from Kodi on Linux</summary>
         <description lang="en">Launch any program from Kodi on Linux</description>
-        <news>I have become death, destroyer of worlds.</news>
+        <news></news>
         <assets>
             <icon>moonlight.png</icon>
             <fanart></fanart>
