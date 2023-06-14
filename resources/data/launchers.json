@@ -1,10 +1,3 @@
 [
-	{"name": "Open Firefox", "command": "/usr/bin/firefox","arg": "", "icon": "resources/media/firefox.png"},
-	{"name": "Open Google Chrome", "command": "/usr/bin/google-chrome-stable","arg": "", "icon": "resources/media/chrome.png"},
-	{"name": "Open Steam", "command": "/usr/games/steam","arg":"-bigpicture", "icon": "resources/media/steam.png"},
-	{"name": "Open Retroarch", "command": "/usr/bin/retroarch","arg": "", "icon": "resources/media/retroarch.png"},
-	{"name": "Open Parsec", "command": "/usr/bin/parsecd","arg": "", "icon": "resources/media/parsec.png"},
-	{"name": "Open Discord", "command": "/usr/bin/discord","arg": "", "icon": "resources/media/discord.png"},
-	{"name": "Open Spotify", "command": "/usr/bin/spotify","arg": "", "icon": "resources/media/spotify.png"},
-	{"name": "Open Linux Terminal Window", "command": "/usr/bin/gnome-terminal","arg": "", "icon": "resources/media/terminal.png"}
+	{"name": "Open Moonlight", "command": "/snap/bin/moonlight","arg": "", "icon": "resources/media/moonlight.png"}
 ]

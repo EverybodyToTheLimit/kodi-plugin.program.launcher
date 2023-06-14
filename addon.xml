@@ -13,8 +13,8 @@
         <description lang="en">Launch any program from Kodi on Linux</description>
         <news>I have become death, destroyer of worlds.</news>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
+            <icon>moonlight.png</icon>
+            <fanart></fanart>
         </assets>
     </extension>
 </addon>
